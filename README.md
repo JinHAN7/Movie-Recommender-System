@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Movie-Recommender-System :movie_camera: :eyes:
 ## Steps for Enjoying Movie Recommendation Project
 1. Download MovieRecommendation.zip files from NYUclasses.
 
