@@ -17,14 +17,14 @@ provide.
 
 
 4.2 In the terminal, run with the code:
-‘python genres_based_Recommender.py’ to get a recommendation based
+_‘python genres_based_Recommender.py’_ to get a recommendation based
 on genres. Note: The genre entered should be with the first letter capitalized.
 For example, if you want to get information about the action genre, then you
 need to enter Action.
 
 
 5.1 For the content_based_recommender, in the terminal, run with the code
-‘Python content_based_Recommender.py’
+_‘Python content_based_Recommender.py’_
 
 
 5.2 Input some keywords of a movie name to get a movie list that are similar
